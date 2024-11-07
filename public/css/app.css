@@ -1,0 +1,29 @@
+.wrapper {
+    width: 100%;
+    height: 60vh;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.Machine{
+    height: 30vh;
+    width: 50%;
+    background-image: url('/image/machinelearning.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.Human{
+    height: 30vh;
+    width: 50%;
+    background-image: url('/image/hci.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
